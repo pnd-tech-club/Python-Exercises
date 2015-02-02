@@ -1,0 +1,7 @@
+print "I decided to redo all these exercies"
+print "Because i dont really understand any of them"
+print "So this is me doing that."
+print "yeah"
+print "in other news, 400 prisoners"
+print "will soon be building a fortress of dwarves"
+print "but not today"

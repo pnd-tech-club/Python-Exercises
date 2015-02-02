@@ -1,0 +1,10 @@
+Game loss - woops you lost
+
+Game win - hurray you win
+
+Well - start of game, must swim down
+
+Cavern - come out of river, see bat 
+
+Tunnel - escape is near
+
